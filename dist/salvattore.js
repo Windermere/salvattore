@@ -556,8 +556,6 @@ self.registerGrid = function registerGrid (grid) {
 self.init = function init() {
   // adds required CSS rule to hide 'content' based
   // configuration.
-  
-  console.log('hmmmmmm');
 
   var css = document.createElement("style");
   css.innerHTML = "[data-columns]::before{visibility:hidden;position:absolute;font-size:1px;}";
