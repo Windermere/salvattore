@@ -1,3 +1,7 @@
+DON'T DELETE THIS REPOSITORY
+===
+Using RawGit CDN (which is MaxCDN) to source the JS in AOS when card view is called. Deleting this repository shouldn't delete the record in the CDN, just safer to keep and update as needed.
+
 Salvattore
 ==========
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/rnmp/salvattore?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
